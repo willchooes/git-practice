@@ -1,1 +1,3 @@
 Git is a version control system.
+It allows branching.
+It allows branching.
